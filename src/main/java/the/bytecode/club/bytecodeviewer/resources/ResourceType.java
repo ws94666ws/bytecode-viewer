@@ -39,7 +39,7 @@ public enum ResourceType
     ANDROID_ARCHIVE(IconResources.androidIcon, "apk", "dex", "aab", "wapk", "xapk", "apkm", "apks"),
     IMAGE_FILE(IconResources.imageIcon, "png", "jpg", "jpeg", "bmp", "wbmp", "gif", "tif", "webp"),
     CONFIG_TEXT_FILE(IconResources.configIcon, "properties", "xml", "jsp", "mf", "config", "csv", "yml", "yaml", "ini",
-        "json", "sql", "gradle", "dockerfile", "htaccess", "plugin", "attachprovider", "transportservice", "connector"),
+        "json", "sql", "gradle", "dockerfile", "htaccess", "plugin", "attachprovider", "transportservice", "connector", "sf"),
     JAVA_FILE(IconResources.javaIcon, "java"),
     TEXT_FILE(IconResources.textIcon, "txt", "md", "log", "html", "css"),
     CPP_FILE(IconResources.cplusplusIcon, "c", "cpp", "h"),
